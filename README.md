@@ -34,22 +34,16 @@
             <img class="estudante-imagem" src="Marcelo.jpeg" alt="foto do marcelo">
             <h3 class="estudante-nome">daniela</h3>
             <a href="https://github.com/danifarago"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
             <img class="estudante-imagem" src="Gabi.jpg" alt="foto da gabi">
             https://github.com/olhe12  <h3 class="estudante-nome">eduardo</h3>
             <a href="https://github.com/EduardoMaass325713"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/gabriela-marcomini-de-lima/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/gabriela_marcomini/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
             <img class="estudante-imagem" src="Liz.jpg" alt="foto da lizandra">
             <h3 class="estudante-nome">kawanx32</h3>
             <a href="https://github.com/kawanx32"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/lizandrarlm-duarte/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/lizandrarlm"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <span></span>
         <span></span>
@@ -57,21 +51,22 @@
             <img class="estudante-imagem" src="Joice.jpg" alt="foto da joice">
             <h3 class="estudante-nome">lima</h3>
             <a href="https://github.com/limabrZ"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/joicebarbaresco/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/joicebarbaresco/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
-        </div>
+        </div><a href="https://www.linkedin.com/in/thais-pianucci-benedicto-54a9a416/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+78
+            <a href="https://www.instagram.com/thaispianucci/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+79
+        </div>
+80
+
         <div class="estudante-div">
             <img class="estudante-imagem" src="Maria.jpg" alt="foto da maria">
             <h3 class="estudante-nome">Maria lu</h3>
             <a href="https://github.com/Maluliz150"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/mariageovanna"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/magpsr/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
             <img class="estudante-imagem" src="Olivia.jpg" alt="foto da olhe">
             <h3 class="estudante-nome">mariana</h3>
             <img class="estudante-icone" src="github.png" alt="icone github">
-            <a href="https://www.linkedin.com/in/olhe/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
             <a href="https://github.com/jikooker"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <span></span>
@@ -80,17 +75,11 @@
             <img class="estudante-imagem" src="Rafa.jpg" alt="foto da rafa">
             <h3 class="estudante-nome">Rafaela</h3>
             <a href="https://github.com/rafaelamunhoz12"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="http://linkedin.com/in/rafaela-felix-munhoz-oliveira-02160a10a"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/rafafmo/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
             <img class="estudante-imagem" src="Thais.jpg" alt="foto da thais">
             <h3 class="estudante-nome">Thais</h3>
             <a href="https://github.com/Thaispianucci"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/thais-pianucci-benedicto-54a9a416/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/thaispianucci/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
-        </div>
-
     </div>
     </section>
     <footer class="rodape">
