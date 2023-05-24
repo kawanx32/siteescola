@@ -41,7 +41,7 @@
             <a href="https://github.com/EduardoMaass325713"><img class="estudante-icone" src="github.png" alt="icone github"></a>
         </div>
         <div class="estudante-div">
-            <img class="estudante-imagem" src="Liz.jpg" alt="foto da lizandra">
+            <img class="![eu](https://github.com/kawanx32/siteescola/assets/110995894/8186575a-0627-41df-a3be-432252146de6)" src="Liz.jpg" alt="foto da lizandra">
             <h3 class="estudante-nome">kawanx32</h3>
             <a href="https://github.com/kawanx32"><img class="estudante-icone" src="github.png" alt="icone github"></a>
         </div>
